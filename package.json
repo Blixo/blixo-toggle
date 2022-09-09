@@ -22,7 +22,7 @@
   },
   "types": "./dist/lib/server-impl.d.ts",
   "engines": {
-    "node": ">=14"
+    "node": "16.16.0"
   },
   "license": "Apache-2.0",
   "main": "./dist/lib/server-impl.js",
